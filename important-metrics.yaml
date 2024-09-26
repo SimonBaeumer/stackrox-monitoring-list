@@ -1,0 +1,4 @@
+#### Alerts 
+
+# database table size
+rox_central_postgres_table_size{table="alerts"}
